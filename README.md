@@ -4,7 +4,7 @@ This repository contains the project files for the Restaurant Management System,
 
 ## Project Overview
 
-The Restaurant Management System is designed to manage and streamline various aspects of restaurant operations, including customer information, orders, payments, products, and staff details. The project employs a relational database to store and manage data, and it includes a front-end interface to interact with the system.
+The Restaurant Management System is the designed to manage and streamline various aspects of restaurant operations, including customer information, orders, payments, products, and staff details. The project employs a relational database to store and manage data, and it includes a front-end interface to interact with the system.
 
 ## Table of Contents
 
